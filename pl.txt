@@ -1,3 +1,5 @@
 num x = 2;
 num y = 3;
+text gg = "hello";
+text yyy = "salom";
 show(x + y);

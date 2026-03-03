@@ -13,7 +13,10 @@ public enum TokenType{
     MULTIPLY,
     DIVIDE,
     ASSIGN,
+    EQUALS,
     SEMICOLON,
     LESS_THAN,
-    GREATER_THAN
+    GREATER_THAN,
+    MODULO,
+    EOF
 }
